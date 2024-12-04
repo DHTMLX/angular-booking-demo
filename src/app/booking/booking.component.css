@@ -1,0 +1,15 @@
+/* import Booking styles */
+@import "@dhx/trial-booking/dist/booking.css";
+
+/* specify styles for initial page */
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/* specify styles for the Booking container */
+.widget {
+    height: 100%;
+}
